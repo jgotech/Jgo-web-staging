@@ -1,6 +1,11 @@
 module.exports = appglobal = {
   api: {
+    //staging
     base_api: "https://staging-api.jgo.com.ph",
+    
+    // prod
+    //base_api: "https://app-api.jgo.com.ph",
+
     register_driver: "/api/auth/register-driver",
     login: "/api/auth/customer-login",
     register: "/api/auth/register",
