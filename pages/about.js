@@ -51,7 +51,7 @@ export default function about() {
                 mobilize enterprises by bringing merchandise straight to your
                 customer’s doorsteps. For the community, we deliver your daily
                 essentials and pleasures to your homes. For our partner riders,
-                we bring them work opportunities for a better life..
+                we bring them work opportunities for a better life.
               </p>
             </div>
            
