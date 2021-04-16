@@ -727,6 +727,7 @@ function driver() {
                 data-toggle="tooltip"
                 data-placement="top"
                 data-container="body"
+                title="Click the map to set the exact location"
                 onClick={deletetoken}
               >
                 DOWNLOAD NOW
