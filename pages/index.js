@@ -693,7 +693,7 @@ function driver() {
         <meta name="twitter:title" content="Jgo Delivery" />
         <meta
           name="twitter:description"
-          content=" JGO Delivery Maasahan! Abangan"
+          content=" JGO Delivery Maasahan!"
         />
         <meta name="twitter:image" content="Image/imgindex.png" />
         <meta name="twitter:card" content="JGO Delivery Maasahan!" />
