@@ -679,13 +679,13 @@ function driver() {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        <meta name="description" content="JGO Delivery Maasahan! Abangan!" />
-        <title>JGO Delivery Maasahan! Abangan!</title>
+        <meta name="description" content="JGO Delivery Maasahan!" />
+        <title>JGO Delivery Maasahan!</title>
         <meta property="og:site_name" content="Jgo Delivery"></meta>
-        <meta property="og:title" content="JGO Delivery Maasahan! Abangan!" />
+        <meta property="og:title" content="JGO Delivery Maasahan!" />
         <meta
           property="og:description"
-          content="JGO Delivery Maasahan! Abangan!"
+          content="JGO Delivery Maasahan!"
         />
         <meta property="og:image" content="Image/imgindex.png" />
         <meta property="og:url" content="asdas" />
@@ -696,7 +696,7 @@ function driver() {
           content=" JGO Delivery Maasahan! Abangan"
         />
         <meta name="twitter:image" content="Image/imgindex.png" />
-        <meta name="twitter:card" content="JGO Delivery Maasahan! Abangan!" />
+        <meta name="twitter:card" content="JGO Delivery Maasahan!" />
       </Head>
       <Header />
       <Componentdidmount></Componentdidmount>
